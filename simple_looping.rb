@@ -5,7 +5,7 @@ def loop_iterator(number_of_times)
   loop do
     counter += 1 
      puts "Welcome to Flatiron School's Web Devolopment Course!"
-    if counter
+    if counter >= 
   
   # Code your solution here using the "loop" keyword to puts out the below phrase
   # This and all the other methods take an argument of an integer 
